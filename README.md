@@ -17,7 +17,8 @@ Demo game project created by me.
 	
 Screenshots           |  Screenshots 
 :-------------------------:|:-------------------------:
-![](Assets/Screenshots/1.png)  |  ![](Assets/Screenshots/3.png)
-![](Assets/Screenshots/2.png)  |  ![](Assets/Screenshots/4.png)
+![](Assets/Screenshots/1.png)  |  ![](Assets/Screenshots/4.png)
+![](Assets/Screenshots/2.png)  |  ![](Assets/Screenshots/5.png)
+![](Assets/Screenshots/3.png)  |  ![](Assets/Screenshots/6.png)
 
 
